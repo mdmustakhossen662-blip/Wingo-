@@ -1,0 +1,6 @@
+{
+  "name": "BigSmall Predictor",
+  "description": "AI-powered auto prediction and trend analyzer for Big and Small rounds with live pattern roadmaps, streak analytics, and simulation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

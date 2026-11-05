@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BigSmall Predictor</string>
+    <string name="tagline">Auto AI Big / Small Prediction System</string>
+    <string name="title_dashboard">Predictor</string>
+    <string name="title_roadmap">Roadmap</string>
+    <string name="title_history">History</string>
+    <string name="title_strategies">Algorithms</string>
+    <string name="title_settings">Settings</string>
+</resources>
